@@ -1,6 +1,6 @@
 # **mePage**
 
-This is a single page, single screen responsive site template
+This is a single screen responsive site .
 
 ### If you wanna run locally to make your changes and port it:
  
