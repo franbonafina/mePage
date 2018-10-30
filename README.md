@@ -2,7 +2,7 @@
 
 This is a single screen responsive site .
 
-### If you wanna run locally to make your changes and port it:
+### If you wanna modify for yourself,
  
 ## Installation
 
