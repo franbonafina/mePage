@@ -6,7 +6,7 @@ This is a single page, single screen responsive site template
  
 ## Installation
 
-- Required : Hugo0.5 [HUGO](https://gohugo.io)
+- Required : [Hugo0.5](https://gohugo.io)
 
 Run the following commands inside the folder of your Hugo site:
 
