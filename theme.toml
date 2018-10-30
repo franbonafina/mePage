@@ -1,0 +1,12 @@
+# theme.toml Hugo
+
+name = "mePage"
+description = "A single page, single screen responsive site ."
+homepage = "https://github.com/franbonafina/mePage"
+tags = ["responsive", "personal"]
+features = ["responsive"]
+min_version = 0.1
+
+[author]
+  name = "franBonafina"
+  homepage = "www.franbonafina.cf"
