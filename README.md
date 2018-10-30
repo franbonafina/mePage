@@ -1,6 +1,6 @@
 # **mePAge**
 
-This is a single page, single screen responsive site template.[HTML5 UP]
+This is a single page, single screen responsive site template
 ![screenshot](https://raw.githubusercontent.com/sethmacleod/aerial/master/images/screenshot.png)
 
 # If you wanna run locally to make your changes and port it:
